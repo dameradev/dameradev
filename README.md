@@ -5,7 +5,7 @@
 <img align="center" alt="dameradev Github Stats" src="https://github-readme-stats.vercel.app/api?username=dameradev&show_icons=true&hide_border=true&theme=dracula" />
 
 
-[<img align="left" alt="Website" width="22px" src="https://cdn0.iconfinder.com/data/icons/seo-and-marketing-volume-3/256/104-1024.png" />][website]
+[<img align="left" alt="Website" width="22px" src="https://cdn0.iconfinder.com/data/icons/seo-and-marketing-volume-3/256/104-1024.png" />][website]{:target="_blank"}
 [<img align="left" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 <!--
