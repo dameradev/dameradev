@@ -1,9 +1,7 @@
-### Hi there 👋
+# Welcome to my page 👋
+<br>
 
-
-
-
->Senior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well->versed in numerous web technologies including HTML5, CSS3, JavaScript, React, NextJS, GatsbyJS, PrismaJs, NodeJS, Graphql, Rest. Strong background in >project management and problem solving.
+>I'm a senior web developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well versed in numerous web technologies including HTML5, CSS3, JavaScript, React, NextJS, GatsbyJS, PrismaJs, NodeJS, Graphql, Rest. Strong background in >project management and problem solving.
 
 <br>
 
@@ -22,6 +20,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-007ACC?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
