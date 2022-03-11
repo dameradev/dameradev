@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 -->
 
 
-[website]: https://www.radev.tech/
-[twitter]: https://twitter.com/dameradev {:target="_blank"}
-[linkedin]: (https://www.linkedin.com/in/damjan-radev-628120145/){:target="_blank"}
+[website](https://www.radev.tech/){:target="_blank"}
+[twitter]: https://twitter.com/dameradev 
+[linkedin]: https://www.linkedin.com/in/damjan-radev-628120145/
