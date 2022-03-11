@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<img align="right" width="200" src="https://github.com/danba340/svg-animation-readme-example/blob/master/animatedkitty.svg" />
+<img align="center" alt="dameradev Github Stats" src="https://github-readme-stats.vercel.app/api?username=dameradev&show_icons=true&hide_border=true&theme=dracula" />
+
 <!--
 **dameradev/dameradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
