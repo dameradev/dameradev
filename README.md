@@ -8,7 +8,7 @@
 ```js
  let yearsOld = 24; 
  const eyeColor ="brown"; 
- let webDevelopmentExperience = 3.4;
+ let yearsOfWebDevelopmentExperience = 4;
  let currentCity = "Vienna";
 ```
 
