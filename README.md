@@ -14,6 +14,7 @@
 
 <br>
 
+
 ## I work with these
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -36,7 +37,9 @@
 
 <br>
 
-<img align="center" alt="dameradev Github Stats" src="https://github-readme-stats.vercel.app/api?username=dameradev&show_icons=true&hide_border=true&theme=dracula" />
+
+[![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dameradev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/dameradev/github-readme-stats)
+
 
 <br>
 
