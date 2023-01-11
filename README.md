@@ -6,10 +6,10 @@
 <br>
 
 ```js
- let yearsOld = 24; 
+ let yearsOld = 25; 
  const eyeColor ="brown"; 
- let yearsOfWebDevelopmentExperience = 4;
- let currentCity = "Vienna";
+ let yearsOfWebDevelopmentExperience = 5;
+ let currentCity = "Chiang Mai";
 ```
 
 <br>
