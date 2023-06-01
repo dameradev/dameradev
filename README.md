@@ -9,7 +9,7 @@
  let yearsOld = 25; 
  const eyeColor ="brown"; 
  let yearsOfWebDevelopmentExperience = 5;
- let currentCity = "Las Palmas";
+ let currentCity = "Chicago";
 ```
 
 <br>
