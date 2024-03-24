@@ -6,9 +6,9 @@
 <br>
 
 ```js
- let yearsOld = 25; 
+ let yearsOld = 26; 
  const eyeColor ="brown"; 
- let yearsOfWebDevelopmentExperience = 5;
+ let yearsOfWebDevelopmentExperience = 6;
  let currentCity = "Vienna";
 ```
 
