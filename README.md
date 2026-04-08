@@ -47,7 +47,6 @@
 <br>
 
 ## Where to find me
- <a href="https://www.radev.tech/"><img target="_blank" alt="Website" src="https://img.shields.io/badge/website-5D5D5D?&style=for-the-badge&logo=appveyor&logoColor=white" /></a>
 <a href="https://twitter.com/dameradev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/damjan-radev-628120145/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.upwork.com/freelancers/~016698a4e83f22f634" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/upwork-1E4353?&style=for-the-badge&logo=Upwork&logoColor=green" /></a>
 
